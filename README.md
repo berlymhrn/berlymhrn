@@ -1,11 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Berliana
 ================================================================================================================================
 
-a vocational senior high school student majoring in software engineering
-
 *   🌍  I'm based in Indonesia
 *   🖥️  See my portfolio at [here](http://berlianaa.vercel.app)
-*   🧠  I'm learning JS,Typescript,React JS, Next JS
+*   🧠  I'm learning TypeScript, C#, Next JS, Unity Engine 
 *   ⚡  I’m interested in UI/UX also Frontend Development
 
 ### Skills 
